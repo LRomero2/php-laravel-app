@@ -1,0 +1,35 @@
+body {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    background-image: url(/imgs/day.jpg);
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.search-container{
+text-align: center ;
+justify-content: center !important;
+align-items: center !important;
+padding-top: 10%;
+background-color: gainsboro;
+opacity: 80%;
+margin-top: 20%;
+}
+
+h1{
+    font-weight: 700;
+   
+}
+
+input{
+    width:350px;
+    padding:5px;
+}
+
+#city-name{
+     font-weight: 500;
+}
