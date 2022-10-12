@@ -1,0 +1,28 @@
+body {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    background-image: url(resources/images/day.jpg);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.search-container{
+text-align: center;
+justify-content: center;
+align-items: center;
+width: 440px;
+}
+
+h1{
+    font-weight: 700;
+    margin-top: 150px;
+}
+
+input{
+    width:350px;
+    padding:5px;
+}
